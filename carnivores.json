@@ -1,0 +1,28 @@
+
+
+{
+	"carnivores": [
+
+
+		{"species": "Jaguar",
+
+		 "locale": "Asia"
+		},
+
+
+		{"species": "Leopard",
+
+		 "locale": "Africa"
+		},
+
+
+		{"species": "Bear",
+
+		 "locale": "North America"
+		}
+
+
+
+	]
+
+}

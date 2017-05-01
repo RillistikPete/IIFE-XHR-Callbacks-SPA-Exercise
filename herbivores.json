@@ -1,0 +1,24 @@
+{
+	"herbivores": [
+
+
+		{"species": "Horse",
+
+		 "locale": "North America"
+		},
+
+
+		{"species": "Camel",
+
+		 "locale": "Africa"
+		},
+
+
+		{"species": "Chupacabra",
+
+		 "locale": "Mexico"
+		}
+
+	]
+
+}
